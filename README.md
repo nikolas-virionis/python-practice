@@ -1,2 +1,2 @@
 # python-practice
-Python repository for practicing Python Best Practices,  concepts andtutorials
+Python repository for practicing Python Best Practices, concepts and tutorials
